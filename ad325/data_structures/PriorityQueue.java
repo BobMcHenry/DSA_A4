@@ -3,6 +3,7 @@ import java.util.Arrays;
 /**
  * Created by bobm on 2/11/16.
  */
+@SuppressWarnings("unchecked")
 public class PriorityQueue<E extends java.lang.Comparable<E>> implements PriorityQueueInterface<E>,
         ComparatorConstructorImplemented, BooleanConstructorImplemented,
         NaryTreeConstructorImplemented {
