@@ -2,6 +2,7 @@ package ad325.data_structures;
 import java.util.Arrays;
 /**
  * Created by bobm on 2/11/16.
+ * WIP
  */
 @SuppressWarnings("unchecked")
 public class PriorityQueue<E extends java.lang.Comparable<E>> implements PriorityQueueInterface<E>,
